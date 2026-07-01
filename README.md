@@ -42,8 +42,12 @@ Sistema de gerenciamento de pizzaria desenvolvido em Python com interface deskto
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hugoopen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoopen&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hugoopen&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoopen&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hugoopen&theme=tokyonight&locale=pt_BR" />
 </div>
 
 ---
