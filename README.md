@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="200" src="https://media.giphy.com/media/ZVik7pIo9KB3UA2787/giphy.gif"/>
 
 Estudante de Desenvolvimento de Sistemas pelo **Senac Belém/PA**, apaixonado por Python e pela cultura open source. Acredito que código aberto é uma das formas mais genuínas de crescer como desenvolvedor e retribuir à comunidade.
 
