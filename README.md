@@ -1,4 +1,4 @@
-# Olá, eu sou o Hugo Souza 👋
+# Olá, eu sou o Hugo Souza 👨🏽‍💻
 
 Estudante de Desenvolvimento de Sistemas pelo **Senac Belém/PA**, apaixonado por Python e pela cultura open source. Acredito que código aberto é uma das formas mais genuínas de crescer como desenvolvedor e retribuir à comunidade.
 
