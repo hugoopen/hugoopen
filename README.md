@@ -19,7 +19,7 @@ Atualmente buscando meu **primeiro estágio** na área de tecnologia. 🚀
 
 ## 📌 Projeto em Destaque
 
-### 🍕 [PizzaLoop](https://github.com/hugoopen/pizzaloop)
+### 🍕 [PizzaLoop](https://github.com/hugoopen/Pizzaloop.oficial)
 Sistema de gerenciamento de pizzaria desenvolvido em Python com interface desktop CustomTkinter e banco de dados MySQL (Aiven Cloud).
 
 - Arquitetura **MVC**
